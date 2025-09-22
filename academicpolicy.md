@@ -9,7 +9,7 @@ This policy applies to current students and employees.
 ## Key definitions
 
 ### Academic integrity
-Within an academic environment, “a commitment, even in the face of adversity, to six fundamental values: honesty, trust, fairness, respect, responsibility and courage.” From these values flow principles of behaviour that enable academic communities to translate ideals to action to ensure the credentials granted to students accurately reflect their demonstrated knowledge and abilities. 
+> Within an academic environment, “a commitment, even in the face of adversity, to six fundamental values: honesty, trust, fairness, respect, responsibility and courage.” From these values flow principles of behaviour that enable academic communities to translate ideals to action to ensure the credentials granted to students accurately reflect their demonstrated knowledge and abilities. 
 
 ### Cheating
 Obtaining or attempting to get, or aiding another person to obtain, credit for work or improvement in performance evaluation by dishonest or deceptive means. Examples include, but are not limited to, self-plagiarism, impersonation, falsification, taking individual credit for group work, unauthorized collaborations and aids and undeclared AI use.  
@@ -33,7 +33,7 @@ A detailed record of a student’s academic history carries an authorized signat
 Using another individual’s, group’s or organization’s work (e.g., words, images, ideas, logic, phrases, signatures or computations) as is or modified by replacing words or phrases with synonyms and presenting it as one’s own, without properly citing the source. This may also include self-plagiarism. 
 
 ### Self-plagiarism
-> The unauthorized re-use of one’s work from previous assignments.
+The unauthorized re-use of one’s work from previous assignments.
 
 ### Student record
 A documented history of a student’s educational progress found in the Student Centre may include electronic notations/service indicators (e.g., outstanding fees). Electronic notations/service indicators are not visible on a student’s official transcript. 
@@ -72,3 +72,18 @@ When professors teach a class to students in a classroom or lab and broadcast it
     - Academic integrity sanctions will be applied according to the severity of the violation committed. (See Appendix B for the academic integrity sanctions.)
     - Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
     - Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
+  
+**Supporting documentation**
+- [Appendix A: Academic Integrity Procedures].(https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_a)
+- [Appendix B: Academic Integrity Sanctions].(https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_b)
+
+**Related Seneca policies**
+- [Academic Appeals Policy].(https://www.senecapolytechnic.ca/about/policies/academic-appeal-policy.html)
+- [Freedom of Information and Protection of Privacy].(https://www.senecapolytechnic.ca/about/policies/freedom-of-information-and-protection-of-privacy-policy.html)
+- [Progression and Promotion].(https://www.senecapolytechnic.ca/about/policies/student-progression-and-promotion-policy.html)
+- [Student Assessment].(https://www.senecapolytechnic.ca/about/policies/student-assessment-policy.html)
+- [Student Progression and Promotion].(https://www.senecapolytechnic.ca/about/policies/student-progression-and-promotion-policy.html)
+    
+**Related Materials**
+- [Academic Integrity Report (PDF)].()
+- [Response to the Academic Integrity Report (PDF)].()
