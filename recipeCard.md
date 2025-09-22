@@ -21,4 +21,5 @@
 10. Turn off the stove
 
 **Make sure to diced carbage and potatoe because it is easier to eat and looks delicious :D**
+
 **Eating with rice and soy sauce is recommended**
